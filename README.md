@@ -1,2 +1,2 @@
 # hqmg
-High quality mobile games
+### A repository that keeps a list of High Quality Mobile Games
